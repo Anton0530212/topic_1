@@ -7,3 +7,7 @@ print(string_literal)
 print(integer_literal)
 print(float_literal)
 print(boolean_literal)
+
+# Неправильное решение
+# В твоем решении, все переменные содержат только строковый литерал
+
